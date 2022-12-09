@@ -6,7 +6,7 @@ First attempt at making a React/NodeJS app. Was initially for an interview. Quit
  can keep tally of a tennis game. Click player 1 scored to increase their
  score, click player 2 scored to increase their score.
 
-** Use **
+**Use**
 
 Run "npm start" in score-counter directory
 Access the local version from "http://localhost:3000/" 
